@@ -1,0 +1,21 @@
+---
+title: Dr. Juniper L. Simonis
+subtitle: - they/them/theirs - 
+output:
+  html_document:
+    toc: false
+  pdf_document:
+    toc: false
+    citation_package: biblatex
+bibliography: library.bibtex
+csl: ecology.csl
+link-citations: true
+---
+
+Hello you!
+
+@caldwell_lucius_k_2020_3923005
+
+
+
+# References
