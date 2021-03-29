@@ -1,0 +1,138 @@
+@misc{simonis_juniper_l_2006_4642880,
+  author       = {Simonis, Juniper L.},
+  title        = {{Substrate degredation patterns of freshwater 
+                   euascomycete fungi: extracelluar enzymes and soft-
+                   rot decay.}},
+  month        = jun,
+  year         = 2006,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.4642880},
+  url          = {https://doi.org/10.5281/zenodo.4642880}
+}
+
+@misc{simonis_juniper_l_2006_4642952,
+  author       = {Simonis, Juniper L. and
+                  Raja, H. A. and
+                  Shearer, C. A.},
+  title        = {{Substrate degradation patterns of freshwater 
+                   euascomycetes. Poster Presentation. Mycological
+                   Society of America.}},
+  month        = jun,
+  year         = 2006,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.4642952},
+  url          = {https://doi.org/10.5281/zenodo.4642952}
+}
+
+@misc{simonis_juniper_l_2008_4642954,
+  author       = {Simonis, Juniper L.},
+  title        = {{Rot-n-enzymes: substrate degradation by freshwater 
+                   ascomycete fungi}},
+  month        = jan,
+  year         = 2008,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.4642954},
+  url          = {https://doi.org/10.5281/zenodo.4642954}
+}
+
+@misc{simonis_juniper_l_2008_4642959,
+  author       = {Simonis, Juniper L.},
+  title        = {{The use and abuse of multivariate analytical 
+                   methods in community (field) ecology.}},
+  month        = jan,
+  year         = 2008,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.4642959},
+  url          = {https://doi.org/10.5281/zenodo.4642959}
+}
+
+@misc{simonis_juniper_l_2009_4642963,
+  author       = {Simonis, Juniper L.},
+  title        = {{Oceanfront limnology: freshwater rock pools as 
+                   model ecosystems}},
+  month        = jan,
+  year         = 2009,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.4642963},
+  url          = {https://doi.org/10.5281/zenodo.4642963}
+}
+
+@misc{simonis_juniper_l_2009_4642965,
+  author       = {Simonis, Juniper L.},
+  title        = {{Rock pools, guano and DOC: the effects of nutrient 
+                   loading on aquatic micro-ecosystems}},
+  month        = jan,
+  year         = 2009,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.4642965},
+  url          = {https://doi.org/10.5281/zenodo.4642965}
+}
+
+@misc{simonis_juniper_l_2009_4642972,
+  author       = {Simonis, Juniper L.},
+  title        = {{Long- and short-term dynamics of pond zooplankton 
+                   communities}},
+  month        = jan,
+  year         = 2009,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.4642972},
+  url          = {https://doi.org/10.5281/zenodo.4642972}
+}
+
+@misc{simonis_juniper_l_2010_4642974,
+  author       = {Simonis, Juniper L.},
+  title        = {{Gulls as dispersal vectors in a rock-pool 
+                   metacommunity}},
+  month        = dec,
+  year         = 2010,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.4642974},
+  url          = {https://doi.org/10.5281/zenodo.4642974}
+}
+
+@misc{simonis_juniper_l_2010_4642976,
+  author       = {Simonis, Juniper L.},
+  title        = {{Aerial defense of offspring by gulls (Larus sp.) 
+                   against intruding researchers}},
+  month        = jan,
+  year         = 2010,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.4642976},
+  url          = {https://doi.org/10.5281/zenodo.4642976}
+}
+
+@misc{simonis_juniper_l_2010_4642978,
+  author       = {Simonis, Juniper L.},
+  title        = {{Food webs in space: interactions between dispersal 
+                   and food-web dynamics}},
+  month        = jan,
+  year         = 2010,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.4642978},
+  url          = {https://doi.org/10.5281/zenodo.4642978}
+}
+
+@misc{simonis_juniper_l_2010_4642980,
+  author       = {Simonis, Juniper L. and
+                  Hewson, I},
+  title        = {{The effects of dissolved organic carbon inputs on 
+                   freshwater rock pools}},
+  month        = dec,
+  year         = 2010,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.4642980},
+  url          = {https://doi.org/10.5281/zenodo.4642980}
+}
+
+@misc{simonis_juniper_l_2010_4642983,
+  author       = {Simonis, Juniper L.},
+  title        = {{Ontogenetic shift by in predation by Trichocorixa 
+                   verticalis dictates trophic cascade in freshwater
+                   rock pools}},
+  month        = aug,
+  year         = 2010,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.4642983},
+  url          = {https://doi.org/10.5281/zenodo.4642983}
+}
+
